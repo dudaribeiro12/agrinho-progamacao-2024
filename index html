@@ -13,7 +13,7 @@
 
 <body>
     <header class="cabeçalho">
-        <img class="cabeçalho-logotipo" src="teaching 1.png" alt="imagem representativa">
+        <img class="cabeçalho-logotipo" src="image.png" alt="imagem-campo">
         <h1 class="cabeçalho-título">Do Campo para a Cidade</h1>
         <ul class="cabeçalho-lista">
             <li class="cabeçalho-lista-item1">O Fenômeno da Migração</li>
