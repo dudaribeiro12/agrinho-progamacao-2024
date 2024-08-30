@@ -51,7 +51,7 @@
 }
 
 .nossa-escola-texto1 {
-    font-size: 35px;
+    font-size: 59px;
     padding: 30px;
 }
 
@@ -101,7 +101,7 @@
     display: flex;
     justify-content: space-around;
     padding: 50px 0;
-    align-items: below;
+    align-items: center;
 }
 
 .rodapé-imagem{
